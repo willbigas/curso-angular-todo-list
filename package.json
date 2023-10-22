@@ -1,6 +1,6 @@
 {
-  "name": "app-todo",
-  "version": "0.0.0",
+  "name": "curso-angular-todo-list",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
